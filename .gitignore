@@ -3,6 +3,7 @@
 
 # Package Files #
 *.jar
+!JavaTest.jar
 *.war
 *.ear
 
